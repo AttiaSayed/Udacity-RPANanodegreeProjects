@@ -1,7 +1,7 @@
-﻿# Project4 - CalculateYearlyProfit
+# Project4 - CalculateYearlyProfit
 
 
-Description: 
+### Description: 
 
 Scrape relevant data from  invoices that are emailed every month for further processing at the end of the year or the beginning of the next year.
 These data are scrapped from two different types of invoices each has the balance and payroll month Total  and  The other has the expenses total  of that month.  
@@ -10,6 +10,6 @@ It will extract specific data , These Data will be uploaded to the Orchestrator 
 
 ______________________________________________________________________________________________________________________________
 
-Walkthrough of the project: 
+### Walkthrough of the project: 
 	
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tVDKTjsfsq4/0.jpg)](https://youtu.be/tVDKTjsfsq4)
